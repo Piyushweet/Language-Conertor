@@ -1,5 +1,5 @@
 #first of install the reqired module from the command 
-/// if you are using vscode the
+''' if you are using vscode the
 pip install tkinter
 pip install googletrans
 pip install textblob
@@ -8,7 +8,7 @@ if using colab or anaconda use
 !pip install tkinter
 !pip install googletrans
 !pip install textblob
-///
+'''
 #importing modules needed
 from cProfile import label
 from fnmatch import translate
